@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/LinkedList/">
+    <Project Path="HomeworkLinkedList/HomeworkLinkedList.csproj" />
+  </Folder>
+  <Folder Name="/LinkedListUse/">
+    <Project Path="LinkedListUsage/LinkedListUsage.csproj" />
+  </Folder>
+  <Folder Name="/MyStack/">
+    <Project Path="MyStack/MyStack.csproj" />
+  </Folder>
+  <Folder Name="/MyStackUse/">
+    <Project Path="MyStackUse/MyStackUse.csproj" />
+  </Folder>
+</Solution>
